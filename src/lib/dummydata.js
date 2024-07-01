@@ -32,17 +32,7 @@ export const listData = [
     latitude: 53.4808,
     longitude: -2.2426,
   },
-  {
-    id: 4,
-    title: "Great Location! Great Price! Great Apartment!",
-    img: "https://images.pexels.com/photos/2467285/pexels-photo-2467285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    bedroom: 2,
-    bathroom: 1,
-    price: 1000,
-    address: "234 Kingsway, London,",
-    latitude: 53.8008,
-    longitude: -1.5491,
-  },
+
   {
     id: 5,
     title: "Apartment 5",
@@ -87,6 +77,7 @@ export const listData = [
     latitude: 51.4545,
     longitude: -2.5879,
   },
+  
 ];
 
 export const singlePostData = {
