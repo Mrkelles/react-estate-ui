@@ -19,8 +19,8 @@ const [open,setOpen] = useState(false)
         <a href="/">Agents</a>
         </div>
         <div className="right">
-        <a href="/">Sign in</a>
-        <a href="/" className="register">Sign up</a>
+        <a href="/login">Sign in</a>
+        <a href="/register" className="reg">Sign up</a>
 
         <div className="menuIcon">
           <img
@@ -34,8 +34,8 @@ const [open,setOpen] = useState(false)
           <a href="/">About</a>
           <a href="/">Contact</a>
           <a href="/">Agents</a>
-          <a href="/">Sign in</a>
-          <a href="/">Sign up</a>
+          <a href="/login">Sign in</a>
+          <a href="/register">Sign up</a>
         </div>
 
         </div>
